@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js, Spring Boot, AWS**
 
-- 💬 Ask me about **React, Spring Boot,Microservices**
+- 💬 Ask me about **React, Spring Boot, Microservices**
 
 - 📫 How to reach me **praveen.pragya1@gmail.com**
 
