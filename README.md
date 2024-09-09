@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/praveen_pragya" target="blank"><img src="https://img.shields.io/twitter/follow/praveen_pragya?logo=twitter&style=for-the-badge" alt="praveen_pragya" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Spring Boot, AWS**
+- 🌱 I’m currently learning **Next.js, React.js, Spring Boot, AWS**
 
 - 💬 Ask me about **React, Spring Boot, Microservices**
 
