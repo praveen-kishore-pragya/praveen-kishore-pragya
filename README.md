@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen Kishore Pragya</h1>
-<h3 align="center">A passionate Full-Stack developer. I build things.</h3>
+<h3 align="center">A versatile Software Engineer specializing in Full-Stack Development. I build things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen-kishore-pragya&label=Profile%20views&color=0e75b6&style=flat" alt="praveen-kishore-pragya" /> </p>
 
@@ -7,11 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/praveen_pragya" target="blank"><img src="https://img.shields.io/twitter/follow/praveen_pragya?logo=twitter&style=for-the-badge" alt="praveen_pragya" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, React.js, Spring Boot, AWS**
+🚀 Equipped with expertise in Java, Spring Boot, React.js, React-Native, C++, Python, I bring a diverse skill set to the table for building robust and scalable applications. 
 
-- 💬 Ask me about **React, Spring Boot, Microservices**
+🎨 Using UI frameworks and libraries like Tailwind CSS, Bootstrap, and Three.js, I create visually appealing and intuitive user interfaces that enhance the overall user experience.
 
-- 📫 How to reach me **praveen.pragya1@gmail.com**
+💻  As a Software Developer, I am currently progressing at Muehlbauer Automation GmbH in Roding, Germany, where I have the opportunity of actively contributing to the C++ Framework team.
+
+🌈 Constantly staying updated with the latest technologies and trends, I am always ready to tackle new challenges and deliver innovative solutions. 
+
+If you are looking for a versatile and skilled developer to bring your projects to life, let's connect and create impactful applications together, whether in backend or frontend development. Let's build something amazing! 🤝
+
+📧 Contact me @ **praveen.pragya1@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
