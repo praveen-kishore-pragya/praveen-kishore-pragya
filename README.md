@@ -17,6 +17,8 @@ If you are looking for a versatile and skilled developer to bring your projects 
 
 📧 Contact me @ **praveen.pragya1@gmail.com**
 
+⭐Portfolio : https://praveen-kishore-pragya-portfolio.netlify.app/
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
