@@ -11,8 +11,6 @@
 
 🎨 Using UI frameworks and libraries like Tailwind CSS, Bootstrap, and Three.js, I create visually appealing and intuitive user interfaces that enhance the overall user experience.
 
-💻  As a Software Developer, I am currently progressing at Muehlbauer Automation GmbH in Roding, Germany, where I have the opportunity of actively contributing to the C++ Framework team.
-
 🌈 Constantly staying updated with the latest technologies and trends, I am always ready to tackle new challenges and deliver innovative solutions. 
 
 If you are looking for a versatile and skilled developer to bring your projects to life, let's connect and create impactful applications together, whether in backend or frontend development. Let's build something amazing! 🤝
